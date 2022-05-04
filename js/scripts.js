@@ -99,8 +99,12 @@ $(window).scroll(function(e){
 
         stop=1;
     }
-
 })
+
+setTimeout(function(){
+   $('#data-area').parallax({imageSrc: '/assets/cidadeparallax.png' })  
+
+},250)
 
 
 });
