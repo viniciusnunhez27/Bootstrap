@@ -177,3 +177,8 @@ padding-bottom: 0;
   font-size: 26px;
   margin-top: 20px;
 }
+
+
+.card-body { 
+  text-align: center;
+}
